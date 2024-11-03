@@ -1,0 +1,860 @@
+{
+  "response": {
+    "success": true,
+    "message": "Successfully get question list.",
+    "result": {
+      "questions": [
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8e1f9d2fb3b79",
+            "company_name": "BJIT Ltd."
+          },
+          "_id": "63579cc211bf1f5b3f946c8f",
+          "question_title": "Command to start Laravel Application?",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "React",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "B",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "None",
+          "tags": ["mongo", "nodeJs"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "php artisan new",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "php artisan",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "php artisan start",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde5",
+            "635f5be553ca3e646dc1ceb1",
+            "635f5be553ca3e646dc1ceb1",
+            "635f5be553ca3e646dc1ceb1"
+          ],
+          "usage_count": 7,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-3",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-1",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-2",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-4",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-5",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-10",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-10",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-10-25T08:22:26.287Z",
+          "updatedAt": "2022-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042b8d8e1f9d2fb3b75",
+            "company_name": "BJIT Inc"
+          },
+          "_id": "63579cc211bf1f5b3f946c4f",
+          "question_title": "Define Spring Boot",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "Spring",
+          "job_role": "Senior Software engineer",
+          "rank_number": 4,
+          "rank_category": "A",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "None",
+          "tags": ["java", "spring"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "servlet",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "jsp",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "jdbc",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f5be553ca3e646dc1ceb2",
+            "635f5be553ca3e646dc1ceb3",
+            "635f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 6,
+          "used_in_exams": [
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-09",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-11",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-10-25T08:22:26.287Z",
+          "updatedAt": "2022-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8e1f9d2fb3b75",
+            "company_name": "BJIT Corp."
+          },
+          "_id": "63579cc211bf1f7b3f946c4f",
+          "question_title": "PHP stands for -",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "PHP",
+          "job_role": "trainee software engineer",
+          "rank_number": 4,
+          "rank_category": "B",
+          "mark": 10,
+          "difficulty": "Hard",
+          "remarks": "None",
+          "tags": ["PHP", "Laravel", "Android", "ASP.NET", "MySQL"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "Hypertext Preprocessor",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "Pretext Hypertext Preprocessor",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "Personal Home Processor",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b77e887e07cde1",
+            "635f5be553ca1e646dc1ceb2",
+            "635f5be553ca4e646dc1ceb3",
+            "635f5be553ca8e646dc1ceb4"
+          ],
+          "usage_count": 7,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635fd7f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f593e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f534b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f494d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-09",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-11",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-09-25T08:22:26.287Z",
+          "updatedAt": "2022-09-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8e1f9e2fb3b75",
+            "company_name": "BJIT Academy"
+          },
+          "_id": "63579cc211bf1f5b3f946c5f",
+          "question_title": "Who is known as the father of PHP?",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "Php",
+          "job_role": "Senior Software engineer",
+          "rank_number": 4,
+          "rank_category": "A",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "None",
+          "tags": ["java", "spring"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "Drek Kolkevi",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "List Barely",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "Rasmus Lerdrof",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f6be553ca3e646dc1ceb2",
+            "635f6be553ca3e646dc1ceb3",
+            "635f6be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 6,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-09",
+              "_id": "635f6417c306f0947489fa1d"
+            }
+          ],
+          "createdAt": "2021-10-25T08:22:26.287Z",
+          "updatedAt": "2021-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8e1f9d2fb3b74",
+            "company_name": "BJIT Corp."
+          },
+          "_id": "63579cc211bf1f53f946c4f",
+          "question_description": "Variable PHP uses in web development",
+          "question_type": "Description",
+          "platform": "Technology",
+          "tech_non_tech": "PHP",
+          "job_role": "Software engineer PHP",
+          "rank_number": 4,
+          "rank_category": "A",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "Remarks will be here.",
+          "tags": ["PHP", "Laravel"],
+          "ques_related_files": [],
+          "mcq_options": [],
+          "question_set_ids": [
+            "735f419e90b79e887e07cde1",
+            "735f5be553ca3e646dc1ceb2",
+            "735f5be553ca3e646dc1ceb3",
+            "735f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 5,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            }
+          ],
+          "createdAt": "2021-10-25T08:22:26.287Z",
+          "updatedAt": "2021-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8e1f9d2fb2b75",
+            "company_name": "BJIT Inc. Netherland"
+          },
+          "_id": "63579cc211bf2f5b3f946c4f",
+          "question_title": "System Testing is a",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "DevOps",
+          "job_role": "Cloud engineer",
+          "rank_number": 4,
+          "rank_category": "B",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "Remarks will be here.",
+          "tags": ["Docker", "Jenkins", "AWS"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "Black box testing",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "White box testing",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "Grey box testing",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b89e887e07cde1",
+            "635f5be557ca3e646dc1ceb2",
+            "635f5be557ca3e646dc1ceb3",
+            "635f5be552ca3e646dc1ceb4"
+          ],
+          "usage_count": 3,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            }
+          ],
+          "createdAt": "2022-08-25T08:22:26.287Z",
+          "updatedAt": "2022-08-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a818e1f9d2fb3b75",
+            "company_name": "BJIT Ltd."
+          },
+          "_id": "63579cc211bf1f7b3f946c4f",
+          "question_title": "When is Acceptance Testing performed in Agile development? ",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "Cloud",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "B",
+          "mark": 5,
+          "difficulty": "Medium",
+          "remarks": "None",
+          "tags": ["AWS", "Jenkins"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "On request of customer",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "After system is ready",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "At the end of each iteration",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f5be553ca3e646dc1ceb2",
+            "635f5be553ca3e646dc1ceb3",
+            "635f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 7,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-09",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-11",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-10-25T08:22:26.287Z",
+          "updatedAt": "2022-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a8d8c1f9d2fb3b75",
+            "company_name": "BJIT Ltd."
+          },
+          "_id": "63579cc211bf1f41b3f946c4f",
+          "question_title": "_______ provides virtual machines, virtual storage, virtual infrastructure, and other hardware assets ",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "DevOps",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "A",
+          "mark": 10,
+          "difficulty": "Medium",
+          "remarks": "Remarks will be here.",
+          "tags": ["AWS", "Docker", "Kubernet"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "IaaS",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "SaaS",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "PaaS",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f5be553ca3e646dc1ceb2",
+            "635f5be553ca3e646dc1ceb3",
+            "635f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 5,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            }
+          ],
+          "createdAt": "2022-10-25T08:22:26.287Z",
+          "updatedAt": "2022-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6358d042a8d8e1f9d2fb3b75",
+            "company_name": "Brain Station 23"
+          },
+          "_id": "63579cc211bf4f5b3f946c4f",
+          "question_title": "In which of the following directory React.js components are saved?",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "ReactJS",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "A",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "Remarks will be here.",
+          "tags": ["javascript", "frontend", "react"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "Inside the js/components/",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "Inside the vendor/components/",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "Inside the external/components/",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f5be553ca3e646dc1ceb2",
+            "635f5be553ca3e646dc1ceb3",
+            "635f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 2,
+          "used_in_exams": [
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            }
+          ],
+          "createdAt": "2021-04-25T08:22:26.287Z",
+          "updatedAt": "2021-04-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042a818e1f9d2fb3b76",
+            "company_name": "BJIT Corp."
+          },
+          "_id": "63579cc211bf1f7b3f946c4f",
+          "question_title": "When is Acceptance Testing performed in Agile development? ",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "DevOps",
+          "job_role": "Senior Software engineer",
+          "rank_number": 5,
+          "rank_category": "B",
+          "mark": 5,
+          "difficulty": "Medium",
+          "remarks": "Remarks will be here.",
+          "tags": ["AWS", "Jenkins"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "On request of customer",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "After system is ready",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "At the end of each iteration",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "635f419e90b79e887e07cde1",
+            "635f5be553ca3e646dc1ceb2",
+            "635f5be553ca3e646dc1ceb3",
+            "635f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 7,
+          "used_in_exams": [
+            {
+              "exam_id": "635f47f18268e4573e37434e",
+              "exam_name": "exam-11",
+              "_id": "635f47f18268e4573e374353"
+            },
+            {
+              "exam_id": "635f493e8268e4573e374356",
+              "exam_name": "exam-12",
+              "_id": "635f493e8268e4573e37435b"
+            },
+            {
+              "exam_id": "635f535b987403b85ca2a1cb",
+              "exam_name": "exam-02",
+              "_id": "635f535b987403b85ca2a1d0"
+            },
+            {
+              "exam_id": "635f54f14d72916a222aace9",
+              "exam_name": "exam-04",
+              "_id": "635f54f14d72916a222aacee"
+            },
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-08",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-09",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-11",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-10-25T08:22:26.287Z",
+          "updatedAt": "2022-10-31T05:58:47.560Z",
+          "__v": 0
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d142a8d8e1f9d2fb3b75",
+            "company_name": "BJIT Ltd."
+          },
+          "_id": "63579cc211cf1f5b3f946c4f",
+          "question_title": "What are the two ways to handle data in React?",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "ReactJS",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "B",
+          "mark": 10,
+          "difficulty": "Hard",
+          "remarks": "None",
+          "tags": ["javascript", "react", "frontend"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "State & Props",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "Services & Components",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "State & Component",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "735f419e90b79e887e07cde1",
+            "535f5be553ca3e646dc1ceb2",
+            "135f5be553ca3e646dc1ceb3",
+            "335f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 3,
+          "used_in_exams": [
+            {
+              "exam_id": "635f594d46195720be5386ec",
+              "exam_name": "exam-3",
+              "_id": "635f594d46195720be5386f1"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-1",
+              "_id": "635f6417c306f0947489fa1d"
+            },
+            {
+              "exam_id": "635f6417c306f0947489fa18",
+              "exam_name": "exam-12",
+              "_id": "635f6417447b2f1883a4e3d1"
+            }
+          ],
+          "createdAt": "2022-06-25T08:22:25.287Z",
+          "updatedAt": "2022-06-31T05:58:48.560Z",
+          "__v": 1
+        },
+        {
+          "company_info": {
+            "comapny_id": "6357d042c8d8e1f9d2fb3b75",
+            "company_name": "BJIT Academy"
+          },
+          "_id": "63579cc221bf1f5b3f946c4f",
+          "question_title": "What is the default port where webpack-server runs?",
+          "question_type": "MCQ",
+          "platform": "Technology",
+          "tech_non_tech": "ReactJS",
+          "job_role": "Software engineer",
+          "rank_number": 4,
+          "rank_category": "C",
+          "mark": 10,
+          "difficulty": "Easy",
+          "remarks": "None",
+          "tags": ["javascript", "react", "frontend"],
+          "ques_related_files": [],
+          "mcq_options": [
+            {
+              "option_name": "3000",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c90"
+            },
+            {
+              "option_name": "8080",
+              "is_answer": true,
+              "_id": "63579cc211bf1f5b3f946c91"
+            },
+            {
+              "option_name": "3030",
+              "is_answer": false,
+              "_id": "63579cc211bf1f5b3f946c92"
+            }
+          ],
+          "question_set_ids": [
+            "735f419e90b79e887e07cde1",
+            "535f5be553ca3e646dc1ceb2",
+            "135f5be553ca3e646dc1ceb3",
+            "335f5be553ca3e646dc1ceb4"
+          ],
+          "usage_count": 0,
+          "used_in_exams": [],
+          "createdAt": "2022-07-25T08:22:26.287Z",
+          "updatedAt": "2022-07-31T05:58:47.560Z",
+          "__v": 0
+        }
+      ],
+      "count": 1
+    }
+  }
+}

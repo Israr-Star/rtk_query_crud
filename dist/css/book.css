@@ -1,0 +1,21 @@
+.o-book {
+  background-color: aliceblue;
+  margin-top: 150px;
+}
+
+.o-book__list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-column-gap: 10px;
+          column-gap: 10px;
+  row-gap: 20px;
+  background-color: antiquewhite;
+}
+/*# sourceMappingURL=book.css.map */
